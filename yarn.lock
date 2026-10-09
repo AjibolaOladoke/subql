@@ -10349,7 +10349,7 @@ __metadata:
     pino-http: "npm:^5.8.0"
     postgraphile: "npm:^4.13.0"
     postgraphile-plugin-connection-filter: "npm:^2.2.2"
-    rxjs: "npm:^7.1.0"
+    rxjs: "npm:^7.8.2"
     ws: "npm:^8.18.0"
     yargs: "npm:^16.2.0"
   bin:
@@ -25164,7 +25164,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rxjs@npm:7.8.1, rxjs@npm:^7.1.0, rxjs@npm:^7.8.1":
+"rxjs@npm:7.8.1, rxjs@npm:^7.8.1":
   version: 7.8.1
   resolution: "rxjs@npm:7.8.1"
   dependencies:
@@ -25182,7 +25182,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rxjs@npm:^7.5.5":
+"rxjs@npm:^7.5.5, rxjs@npm:^7.8.2":
   version: 7.8.2
   resolution: "rxjs@npm:7.8.2"
   dependencies:
