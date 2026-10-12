@@ -6,12 +6,11 @@ We keep a working index for product and engineering, and subql is the entry that
 
 ## Images
 
-[![subql](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![subql](images/preview.png)](https://github.com/Swift-Tech-Co/subql)
 
 ## Get Started
 
 ### Create a SubQuery project
-
 
 ### Learn and improve with our comprehensive documentation
 
@@ -35,9 +34,9 @@ You're going to need to a Postgres database, a node to extract chain data, and a
 
 You can also create, build and deploy SubQuery projects using MCP (Model Context Protocol). Our MCP integration provides all the same functionality as the CLI but works well with LLMs and AI IDEs such as Cursor.
 
-[![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](https://www.swifttechco.com)
+[![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](https://github.com/Swift-Tech-Co/subql)
 
-[![VSCode Install MCP Server](https://img.shields.io/badge/VS_Code-NPM-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://www.swifttechco.com)
+[![VSCode Install MCP Server](https://img.shields.io/badge/VS_Code-NPM-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://github.com/Swift-Tech-Co/subql)
 
 ### Manual configuration
 
@@ -60,12 +59,9 @@ An example manual configuration:
 
 This repository contains all the core components of the SubQuery SDK as well as the Substrate implementation. It includes the following packages:
 
-
 For more detail on the specific network implementations please see their respective repositories:
 
-
 ### Other Components:
-
 
 ## Support
 
@@ -100,13 +96,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/subql
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [subquery/subql](https://github.com/subquery/subql) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
